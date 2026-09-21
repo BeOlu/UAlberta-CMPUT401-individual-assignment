@@ -1,0 +1,36 @@
+# Python virtual environment
+venv/
+.venv/
+__pycache__/
+*.py[cod]
+pyvenv.cfg
+
+# SQLite database
+*.db
+*.sqlite
+*.sqlite3
+
+# Local environment / secrets
+.env
+.env.*
+
+# Test and coverage outputs
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Editor settings
+.vscode/
+.DS_Store
+
+# Docker / build artifacts
+*.log
+build/
+dist/
+
+# Python packaging
+*.egg-info/
+
+#local files
+Full Assignment Implementation Instructions.pdf
+PreparationAssignment + API-contract.pdf

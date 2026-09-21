@@ -1,0 +1,164 @@
+{
+  "items": [
+    {
+      "title": "Campus café adds reusable cup discount",
+      "source": { "name": "Campus Bulletin" },
+      "publishedAt": "2025-01-05T09:00:00Z",
+      "url": "https://example.com/items/1",
+      "summary": "A discount is available for customers who bring reusable cups to campus cafés.",
+      "tags": ["campus", "sustainability", "food"]
+    },
+    {
+      "title": "Library extends weekend study hours",
+      "source": { "name": "Library News" },
+      "publishedAt": "2025-01-07T18:30:00Z",
+      "url": "https://example.com/items/2",
+      "summary": "Weekend opening hours have been extended to support students during midterm season.",
+      "tags": ["campus", "students", "library"]
+    },
+    {
+      "title": "Transit route detours announced for maintenance",
+      "source": { "name": "City Updates" },
+      "publishedAt": "2025-01-10T07:45:00Z",
+      "url": "https://example.com/items/3",
+      "summary": "Several routes will follow temporary detours due to scheduled road maintenance.",
+      "tags": ["city", "transit", "notice"]
+    },
+    {
+      "title": "Student club fair opens registration",
+      "source": { "name": "Student Life" },
+      "publishedAt": "2025-01-12T12:15:00Z",
+      "url": "https://example.com/items/4",
+      "summary": "Clubs can register to host a booth at the upcoming campus club fair.",
+      "tags": ["campus", "events", "students"]
+    },
+    {
+      "title": "Cold weather advisory issued for morning commute",
+      "source": { "name": "Weather Desk" },
+      "publishedAt": "2025-01-15T06:10:00Z",
+      "url": "https://example.com/items/5",
+      "summary": "Temperatures are expected to drop significantly overnight; commuters should dress warmly.",
+      "tags": ["weather", "safety", "city"]
+    },
+    {
+      "title": "New quiet study zone opens on third floor",
+      "source": { "name": "Library News" },
+      "publishedAt": "2025-01-18T14:00:00Z",
+      "url": "https://example.com/items/6",
+      "summary": "A new quiet study zone with reservable desks is available starting this week.",
+      "tags": ["library", "campus", "students"]
+    },
+    {
+      "title": "Beginner-friendly hack night announced",
+      "source": { "name": "Tech Community" },
+      "publishedAt": "2025-01-22T19:00:00Z",
+      "url": "https://example.com/items/7",
+      "summary": "A local meetup is hosting a guided hack night for beginners with volunteer mentors.",
+      "tags": ["tech", "events", "students"]
+    },
+    {
+      "title": "Campus fitness center offers new drop-in class schedule",
+      "source": { "name": "Campus Bulletin" },
+      "publishedAt": "2025-01-25T11:20:00Z",
+      "url": "https://example.com/items/8",
+      "summary": "Drop-in classes have been updated with new times and additional beginner sessions.",
+      "tags": ["campus", "health", "schedule"]
+    },
+    {
+      "title": "Community market returns for winter season",
+      "source": { "name": "City Updates" },
+      "publishedAt": "2025-01-28T09:30:00Z",
+      "url": "https://example.com/items/9",
+      "summary": "Vendors will offer produce, crafts, and baked goods at the weekend community market.",
+      "tags": ["city", "events", "food"]
+    },
+    {
+      "title": "Workshop: writing clear commit messages",
+      "source": { "name": "Tech Community" },
+      "publishedAt": "2025-02-01T16:00:00Z",
+      "url": "https://example.com/items/10",
+      "summary": "A short workshop will cover practical tips for readable commits and clean git history.",
+      "tags": ["tech", "workshop", "git"]
+    },
+    {
+      "title": "Short-term parking changes near main entrance",
+      "source": { "name": "Campus Bulletin" },
+      "publishedAt": "2025-02-03T08:25:00Z",
+      "url": "https://example.com/items/11",
+      "summary": "Several short-term parking stalls will be temporarily unavailable due to construction.",
+      "tags": ["campus", "notice", "parking"]
+    },
+    {
+      "title": "Food pantry donation drive begins",
+      "source": { "name": "Student Life" },
+      "publishedAt": "2025-02-06T13:10:00Z",
+      "url": "https://example.com/items/12",
+      "summary": "A donation drive is collecting non-perishable items to support the campus food pantry.",
+      "tags": ["students", "community", "campus"]
+    },
+    {
+      "title": "Freezing rain warning for tonight",
+      "source": { "name": "Weather Desk" },
+      "publishedAt": "2025-02-08T17:40:00Z",
+      "url": "https://example.com/items/13",
+      "summary": "Road conditions may become slippery; allow extra travel time and use caution.",
+      "tags": ["weather", "safety", "alert"]
+    },
+    {
+      "title": "Career services adds resume review appointments",
+      "source": { "name": "Student Life" },
+      "publishedAt": "2025-02-11T10:00:00Z",
+      "url": "https://example.com/items/14",
+      "summary": "New appointment slots are available for resume reviews and interview preparation.",
+      "tags": ["students", "career", "campus"]
+    },
+    {
+      "title": "Public lecture: practical cybersecurity basics",
+      "source": { "name": "Campus Events" },
+      "publishedAt": "2025-02-14T20:00:00Z",
+      "url": "https://example.com/items/15",
+      "summary": "A public lecture will cover password hygiene, phishing awareness, and safe browsing habits.",
+      "tags": ["events", "security", "campus"]
+    },
+    {
+      "title": "City announces snow clearing priority updates",
+      "source": { "name": "City Updates" },
+      "publishedAt": "2025-02-17T07:15:00Z",
+      "url": "https://example.com/items/16",
+      "summary": "Snow clearing priorities have been updated for major roads, bus routes, and school zones.",
+      "tags": ["city", "weather", "transit"]
+    },
+    {
+      "title": "Study group sign-ups open for core courses",
+      "source": { "name": "Student Life" },
+      "publishedAt": "2025-02-20T15:45:00Z",
+      "url": "https://example.com/items/17",
+      "summary": "Students can join peer study groups matched by course and availability.",
+      "tags": ["students", "campus", "study"]
+    },
+    {
+      "title": "Workshop: writing an OpenAPI spec",
+      "source": { "name": "Tech Community" },
+      "publishedAt": "2025-02-23T18:00:00Z",
+      "url": "https://example.com/items/18",
+      "summary": "A guided session will demonstrate how to document REST endpoints with OpenAPI.",
+      "tags": ["tech", "workshop", "api"]
+    },
+    {
+      "title": "Campus shuttle schedule updated",
+      "source": { "name": "Campus Bulletin" },
+      "publishedAt": "2025-02-26T09:05:00Z",
+      "url": "https://example.com/items/19",
+      "summary": "Shuttle frequencies have been adjusted during peak hours to reduce wait times.",
+      "tags": ["campus", "transit", "schedule"]
+    },
+    {
+      "title": "Community volunteer day registration opens",
+      "source": { "name": "Campus Events" },
+      "publishedAt": "2025-03-01T12:00:00Z",
+      "url": "https://example.com/items/20",
+      "summary": "Registration is now open for a community volunteer day with multiple project options.",
+      "tags": ["events", "community", "students"]
+    }
+  ]
+}
